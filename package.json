@@ -4,8 +4,7 @@
   "description": "Projeto pratico do curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "vercel-build": "npm install && npm run dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
